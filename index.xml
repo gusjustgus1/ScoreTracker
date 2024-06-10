@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <module>
+        <id>CustomTeamPointsTracker</id>
+        <name>Team Points Tracker</name>
+        <description>A custom pod to track team points.</description>
+        <swf>
+            <main>true</main>
+            <path>index.html</path>
+        </swf>
+    </module>
+</manifest>
